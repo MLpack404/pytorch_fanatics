@@ -151,7 +151,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/MiHarsh/Pytorch_Fanatics/blob/main/LICENSE)
+[MIT](https://github.com/MLpack404/pytorch_fanatics/blob/main/LICENSE)
 
 ## References
 * FastAi Documentations for LRFinder.
